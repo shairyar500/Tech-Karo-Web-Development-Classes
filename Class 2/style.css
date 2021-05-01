@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    padding: 10px;
+    border: 2px solid seagreen;
+}
+.paragraph{
+    color:red;
+    padding: 50px;
+    border: 15px solid blue;
+}
+#heading{
+    color: red;
+    
+}
