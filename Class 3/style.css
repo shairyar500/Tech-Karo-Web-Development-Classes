@@ -1,0 +1,29 @@
+.first-position{
+    position: static;
+    background-color: rgb(81, 81, 190);
+    text-shadow: 2px 2px 5px red;
+    text-align: center;
+    
+    
+}
+.second-position{
+    /* position: relative; */
+    background-color: rgb(0, 255, 55);
+    top: 25px;
+}
+.third-position{
+    /* position: absolute; */
+    background-color: rgb(214, 11, 153);
+    top: 15px;
+}
+.forth-position{
+    /* position: fixed; */
+    background-color: rgb(255, 0, 55);
+    top: 50px;
+    right: 50px;
+}
+.fifth-position{
+    /* position: sticky; */
+    background-color: rgb(255, 239, 8);
+    top: 5px;
+}
