@@ -4,3 +4,10 @@
 .second-div {
     font-size: 32px;
 }
+.third-div + p{
+    font-size: 18px;
+    color: blueviolet;
+}
+.forth-div ~ p{
+    color: brown;
+}
