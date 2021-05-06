@@ -1,7 +1,17 @@
-h1{
-    font-family: 'Itim', cursive;
+.login {
+    border: 2px solid black;
+    width: 25%;
 }
-p{
-    font-family: 'Itim', cursive;
-font-family: 'Roboto Mono', monospace;
+.login h2{
+    text-align: center;
+    justify-content: center;
+}
+.login h4{
+    text-align: right;
+    top: 100px;
+}
+.btn{
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
 }

@@ -1,0 +1,8 @@
+.float h2{
+    float: right;
+    color: red;
+}
+.float h3{
+    float: left;
+    color: blue;
+}
